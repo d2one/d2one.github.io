@@ -1,6 +1,7 @@
 +++
-date = "2016-02-14T16:11:58+05:30"
-title = "Good to Great Book Review"
+date = "2017-05-18T15:49:27Z"
+draft = false
+title = "good to great"
 
 +++
 
