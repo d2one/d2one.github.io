@@ -1,3 +1,6 @@
 [submodule "themes/hugo_theme_robust"]
 	path = themes/hugo_theme_robust
 	url = https://github.com/dim0627/hugo_theme_robust.git
+[submodule "themes/hugo-material-docs"]
+	path = themes/hugo-material-docs
+	url = https://github.com/digitalcraftsman/hugo-material-docs

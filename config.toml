@@ -1,3 +1,4 @@
-baseURL = "d2one.ru"
-languageCode = "en-us"
-title = "My first blog"
+baseURL = "http://d2one.ru/"
+languageCode = "ru"
+title = "Записки программиста"
+theme = "hugo-material-docs"
