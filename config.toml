@@ -2,6 +2,7 @@ baseURL = "https://d2one.ru/"
 languageCode = "ru"
 title = "Записки программиста"
 disqusShortname = "XYW"
+theme = "beautifulhugo"
 
 [params]
   dateformat = "Jan 2, 2006" # Optional
