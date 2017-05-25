@@ -2,7 +2,7 @@ baseurl             = "https://d2one.ru/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
-languageCode        = "en-US"
+languageCode        = "ru-RU"
 layoutdir           = "layouts"
 publishdir          = "public"
 author              = "Kuznetsov Daniil"
@@ -11,8 +11,6 @@ pygmentsuseclasses  = true
 disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 theme="cocoa-hugo-theme"
-
-
 
 
 [permalinks]
@@ -31,11 +29,6 @@ weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
-[[menu.main]]
-name                   = "Code"
-weight                 = -100
-identifier             = "code"
-url                    = "/code/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
@@ -46,8 +39,7 @@ dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Don't panic"
 email                  = "kuznetsov.daniil.d2@gmail.com"
-extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile            = "img/leaf.ico"
+faviconfile            = "img/favicon.ico"
 github                 = "//github.com/d2one"
 highlightjs            = true
 lang                   = "en"
@@ -62,6 +54,3 @@ selfintro              = ""                            # appears in the site hea
 #avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 gravatar             = "e66623bbb7c5c2d2e59c5a18b35af53a"                # do not use in the same time as avatar
 
-# The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
