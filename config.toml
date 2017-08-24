@@ -42,10 +42,14 @@ googleAnalytics = "UA-105273978-1"
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
 # Add additional social link entries underneath
 [social]
-    github   = "https://www.github.com/d2one"
+    github-square   = "https://www.github.com/d2one"
+    linkedin-square   = "https://www.linkedin.com/in/daniil-kuznetsov-31270691/"
+    vk   = "https://vk.com/d2one"
+    instagram   = "http://instagram.com/kuznetsovdaniil"
+    rss-square = "https://d2one.ru/index.xml"
