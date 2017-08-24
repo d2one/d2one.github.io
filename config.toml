@@ -1,56 +1,51 @@
-baseurl             = "https://d2one.ru/"
-builddrafts         = false
-canonifyurls        = true
-contentdir          = "content"
-languageCode        = "ru-RU"
-layoutdir           = "layouts"
-publishdir          = "public"
-author              = "Kuznetsov Daniil"
-title               = "Kuznetsov Daniil"
-pygmentsuseclasses  = true
-disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
-pluralizelisttitles = false
-theme="cocoa-hugo-theme"
-
-
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
-
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
-
-[[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
+# Site settings
+baseurl = "https://d2one.ru/"
+themesDir = "themes/"
+languageCode = "ru-ru"
+title = "Kuznetsov Daniil blog"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-105273978-1"
+# Disable comments by leaving disqusShortname empty
+#disqusShortname = "spf13"
 
 [params]
-latestpostscount       = 5                             # how many posts to display on the home page
-i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = "Kuznetsov Daniil"
-cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Don't panic"
-email                  = "kuznetsov.daniil.d2@gmail.com"
-faviconfile            = "img/favicon.ico"
-github                 = "//github.com/d2one"
-highlightjs            = true
-lang                   = "en"
-linkedin               = "//linkedin.com/in/daniil-kuznetsov-31270691"
-noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = ""                            # appears in the site header when set to a non-empty string
+	name = "Daniil Kuznetsov"
+	description = "personal blog"
+	bio = "Programmer"
+	# Enter optionally your twitter account
+	#twitter = "Your Twitter account"
+	enableRSS = true
 
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
 
-# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
-# highlightjsStyle     = "darcula"
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
-#avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
-gravatar             = "e66623bbb7c5c2d2e59c5a18b35af53a"                # do not use in the same time as avatar
+	# Navigation links
+	home = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm an programmer."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
 
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    github   = "https://www.github.com/d2one"
