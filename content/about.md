@@ -5,4 +5,24 @@ title = "Обо мне"
 slug = "about"
 
 +++
+### Ключевые навыки
+`PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine`
+
+### Опыт работы
+Разработчик высоконагруженных систем в группе компний [НГС](http://ngs.ru)
+
+###### Ведущий разработчик проектов вертикали [ПОРТАЛ](http://ngs.ru)
+* http://news.ngs.ru
+* http://ngs.ru
+* http://afisha.ngs.ru
+
+###### Ведущий разработчик, руководитель проектов вертикали [АВТО](http://auto.ngs.ru)
+* http://auto.e1.ru
+* http://auto.ngs.ru
+* http://auto.samara24.ru
+* http://auto.prm.ru
+
+###### Сертификаты
+* [M101P: MongoDB for Developers](https://university.mongodb.com/course_completion/528205dea56c4d9ba342e5b586144871)
+ 
 
