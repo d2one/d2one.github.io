@@ -3,7 +3,7 @@ baseurl = "https://d2one.ru/"
 themesDir = "themes/"
 languageCode = "ru-ru"
 title = "Kuznetsov Daniil blog"
-theme = "hugo-cactus-theme"
+theme =   "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-105273978-1"
 # Disable comments by leaving disqusShortname empty

@@ -5,4 +5,4 @@ title = "Обо мне"
 slug = "about"
 
 +++
-Php developer
+
