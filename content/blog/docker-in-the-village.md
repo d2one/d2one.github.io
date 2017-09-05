@@ -1,5 +1,5 @@
 +++
-date = "2017-08-25T04:03:46-06:00"
+date = "2017-09-05T04:03:46-06:00"
 draft = true
 title = "Docker в деревне"
 slug = "docker-in-the-village"
