@@ -22,6 +22,9 @@ slug = "about"
 * http://auto.samara24.ru
 * http://auto.prm.ru
 
+###### Выступления
+[Docker meetup #6. Novosibirsk](https://youtu.be/GD9hYFB7Bbk)
+
 ###### Сертификаты
 * [M101P: MongoDB for Developers](https://university.mongodb.com/course_completion/528205dea56c4d9ba342e5b586144871)
  
