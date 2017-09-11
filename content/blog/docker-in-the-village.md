@@ -3,6 +3,7 @@ date = "2017-09-12T04:03:46-06:00"
 draft = false
 title = "Свой блог на Docker, Hugo, traefic, nginx"
 slug = "docker-in-pet-project"
+tags = [ "docker", "hugo", "traefic"]
 
 +++
 # Свой блог на Docker, Hugo, traefic, nginx

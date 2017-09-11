@@ -3,6 +3,7 @@ title = "Docker meetup #6. Новосибирск."
 slug = "docker-meetup-6"
 date =  "2017-09-09T23:01:03+07:00"
 draft = false
+tags = [ "docker", "hugo", "traefic", "meetup"]
 +++
 
 Принял участие в юбилейном 6 митапе о Docker в Новосибирске в качестве докладчика.

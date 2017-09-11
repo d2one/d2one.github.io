@@ -3,7 +3,7 @@ date = "2015-04-30T17:09:14-05:00"
 draft = false
 title = "Интересные ссылки"
 slug = "useful-links"
-
+tags = [ "devtools", "text" ]
 +++
 
 Всем привет!

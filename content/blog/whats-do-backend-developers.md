@@ -3,6 +3,7 @@ date = "2015-04-29T04:05:25-06:00"
 draft = false
 title = "Чем занимаются backend-разработчики?"
 slug = "whats-do-backend-developers"
+tags = [ "text", "webdev" ]
 +++
 
 1. Чем занимаются backend-разработчики?

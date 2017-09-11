@@ -3,6 +3,7 @@ date = "2015-04-13T04:05:25-06:00"
 draft = false
 title = "MongoDB. Часть 1."
 slug = "mongodb-part-one"
+tags = [ "mongodb" ]
 +++
 
 ##### Объявляем эту неделю - неделей MongoDB!

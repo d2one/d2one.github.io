@@ -3,6 +3,7 @@ date = "2015-04-28T04:05:25-06:00"
 draft = false
 title = "MongoDB. Часть 5. Индексы"
 slug = "mongodb-part-five"
+tags = [ "mongodb" ]
 +++
 ##### Индексы в MongoDB
 
