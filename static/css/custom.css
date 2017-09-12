@@ -1,0 +1,29 @@
+.profile #wrapper {
+    max-width: 800px !important;;
+}
+
+#wrapper {
+    max-width: 800px !important;
+}
+
+#wrapper.home {
+    max-width: 800px !important;;
+}
+
+
+ul {
+    margin: 10px !important;;
+    padding: 4px !important;;
+}
+
+#wrapper.tags {
+    padding: 0px 40px 20px 40px !important;;
+}
+
+code {
+    font-size: 14px !important;;
+}
+
+pre code {
+    font-size: 14px !important;
+}

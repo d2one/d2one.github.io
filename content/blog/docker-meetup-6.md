@@ -9,7 +9,7 @@ tags = [ "docker", "hugo", "traefic", "meetup"]
 Принял участие в юбилейном 6 митапе о Docker в Новосибирске в качестве докладчика.
 
 Видео моего выступления:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GD9hYFB7Bbk" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/GD9hYFB7Bbk" frameborder="0" allowfullscreen></iframe>
 
 [Презентация](/files/Docker_in_pet_project.pdf)
 

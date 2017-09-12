@@ -3,10 +3,10 @@ date = "2017-08-16T17:09:14-05:00"
 draft = false
 title = "Обо мне"
 slug = "about"
-
+hidden = true
 +++
 ### Ключевые навыки
-```PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine```
+PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine
 
 ### Опыт работы
 Разработчик высоконагруженных систем в группе компний [НГС](http://ngs.ru)
