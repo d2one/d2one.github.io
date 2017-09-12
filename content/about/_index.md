@@ -6,7 +6,7 @@ slug = "about"
 
 +++
 ### Ключевые навыки
-`PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine`
+```PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine```
 
 ### Опыт работы
 Разработчик высоконагруженных систем в группе компний [НГС](http://ngs.ru)

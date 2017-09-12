@@ -1,3 +1,9 @@
 [submodule "themes/hugo-cactus-theme"]
 	path = themes/hugo-cactus-theme
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/hugo-theme-cactus-plus"]
+	path = themes/hugo-theme-cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git

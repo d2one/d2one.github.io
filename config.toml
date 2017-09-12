@@ -3,7 +3,7 @@ baseurl = "https://d2one.ru/"
 themesDir = "themes/"
 languageCode = "ru-ru"
 title = "Kuznetsov Daniil blog"
-theme =   "hugo-cactus-theme"
+theme =   "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-105273978-1"
 # Disable comments by leaving disqusShortname empty
@@ -19,24 +19,28 @@ googleAnalytics = "UA-105273978-1"
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
-	customCSS = []
+	customCSS = ["/css/style.css"]
 	customJS  = []
 
 	# The variables below are optionally too and can be used to
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
-	subscribe = ""
+	home = "Главная"
+	about = "Обо мне"
+	archive = "Архив"
+	subscribe = "Подписаться"
+	tags = "Теги"
+
 	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
+	olderPosts = "Раньше"
+	newerPosts = "Позже"
+	readMore = "Читать еще"
 	copyright = ""
 	# Sharing options and author information in posts
 	aboutAuthor = "I'm a programmer."
 	tweet = ""
-	share = ""
+	share = "Поделиться"
 	# 404 page
 	title404 = ""
 	subtitle404 = ""
