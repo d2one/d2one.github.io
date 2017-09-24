@@ -49,6 +49,7 @@ googleAnalytics = "UA-105273978-1"
 	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
+    enableGoogleAnalytics = true
 
 # Add additional social link entries underneath
 [social]
