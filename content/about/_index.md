@@ -11,7 +11,7 @@ PHP, MongoDB, Sphinx, Elasticsearch, Go, Docker, Web Application Engine
 ### Опыт работы
 Разработчик высоконагруженных систем в группе компний [НГС](http://ngs.ru)
 
-###### Руководитель разработки ["Сеть Городских Порталов HSD"](http://ngs.ru)
+###### Рdуководитель разработки ["Сеть Городских Порталов HSD"](http://ngs.ru)
 * http://news.ngs.ru
 * http://ngs.ru
 * http://74.ru
