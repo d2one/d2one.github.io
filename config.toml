@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://d2one.ru"
 languageCode = "ru"
 defaultContentLanguage = "ru"
 title = "Главная"
@@ -7,7 +7,7 @@ theme = "KeepIt"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-105273978-1"
 
 [sitemap]
   changefreq = "monthly"
@@ -42,7 +42,7 @@ googleAnalytics = ""
     since = 2015
     author = "Кузнецов Даниил"               # Author's name
     avatar = "/images/avatar.jpg"           # Author's avatar
-    subtitle = "Teamlead"       # Subtitle
+    subtitle = "Кузнецов Даниил"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
