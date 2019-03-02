@@ -4,3 +4,9 @@
 [submodule "themes/hugo-theme-cactus-plus"]
 	path = themes/hugo-theme-cactus-plus
 	url = https://github.com/d2one/hugo-theme-cactus-plus.git
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa

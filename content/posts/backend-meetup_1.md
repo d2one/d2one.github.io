@@ -1,9 +1,13 @@
 +++
 title = "DEVNSK. Backend meetup#1. Новосибирск."
-slug = "devnsk-meetupe-1"
+slug = "devnsk-meetup-1"
 date =  "2018-04-14T23:01:03+07:00"
 draft = false
-tags = [ "migrations", "ngs", "e1"]
+tags = [ "migrations","ngs","e1"]
+type = ["posts","post"]
+categories = [
+    "Public speaking"
+]
 +++
 
 Принял участие в первом backend митапе в Новосибирске в качестве докладчика.

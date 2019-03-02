@@ -4,7 +4,10 @@ draft = false
 title = "Свой блог на Docker, Hugo, traefic, nginx"
 slug = "docker-in-the-village"
 tags = [ "docker", "hugo", "traefic"]
-
+type = ["posts","post"]
+categories = [
+    "Development"
+]
 +++
 # Свой блог на Docker, Hugo, traefic, nginx
 

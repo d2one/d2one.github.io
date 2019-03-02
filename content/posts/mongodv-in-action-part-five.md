@@ -4,6 +4,10 @@ draft = false
 title = "MongoDB. Часть 5. Индексы"
 slug = "mongodb-part-five"
 tags = [ "mongodb" ]
+type = ["posts","post"]
+categories = [
+    "Databases"
+]
 +++
 ##### Индексы в MongoDB
 

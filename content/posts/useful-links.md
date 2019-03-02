@@ -4,6 +4,10 @@ draft = false
 title = "Интересные ссылки"
 slug = "useful-links"
 tags = [ "devtools", "text" ]
+type = ["posts","post"]
+categories = [
+    "Development"
+]
 +++
 
 Всем привет!

@@ -4,6 +4,10 @@ draft = false
 title = "Чем занимаются backend-разработчики?"
 slug = "whats-do-backend-developers"
 tags = [ "text", "webdev" ]
+type = ["posts","post"]
+categories = [
+    "Development"
+]
 +++
 
 1. Чем занимаются backend-разработчики?

@@ -4,6 +4,10 @@ draft = false
 title = "MongoDB. Часть 1."
 slug = "mongodb-part-one"
 tags = [ "mongodb" ]
+type = ["posts","post"]
+categories = [
+    "Databases"
+]
 +++
 
 ##### Объявляем эту неделю - неделей MongoDB!
