@@ -1,83 +1,60 @@
-baseURL = "https://d2one.ru"
-languageCode = "ru"
-defaultContentLanguage = "ru"
-title = "Главная"
-theme = "KeepIt"
-
-paginate = 12
-enableEmoji = true
-enableRobotsTXT = true
+# Site settings
+baseurl = "https://d2one.ru/"
+themesDir = "themes/"
+languageCode = "ru-ru"
+title = "Кузнецов Даниил, блог"
+theme =   "hugo-theme-cactus-plus"
+# Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-105273978-1"
-
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-[blackfriday]
-  hrefTargetBlank = true
-  nofollowLinks = true
-  noreferrerLinks = true
-
-[Permalinks]
- posts = "/:year/:filename/"
-
-[menu]
-  [[menu.main]]
-    name = "Блог"
-    url = "/posts/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Категории"
-    url = "/categories/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Познакомимся?"
-    url = "/about"
-    weight = 4
+# Disable comments by leaving disqusShortname empty
+#disqusShortname = "spf13"
 
 [params]
-    since = 2015
-    author = "Кузнецов Даниил"               # Author's name
-    avatar = "/images/avatar.jpg"           # Author's avatar
-    subtitle = "Кузнецов Даниил"       # Subtitle
-    cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
-
-    google_verification = "UA-105273978-1"
-
-    description = "" # site description
-    keywords = "" # site keywords
-
-    license= ''
-
-[params.social]
-    GitHub = "d2one"
-    Linkedin = "daniil-kuznetsov-31270691/"
-    Instagram = "kuznetsovdaniil"
-    Email   = "kuznetsov.daniil.d2@gmail.com"
-    Facebook = "kuznetsovds"
-    Telegram = "@kuznetsov_ds"
-
-[author]
 	name = "Кузнецов Даниил"
-	[params.publisher]
-    	name = "Кузнецов Даниил"
+	description = "Руководитель разработки. Тимлид. Разработчик."
+	bio = "Руководитель разработки. Тимлид. Разработчик."
+	# Enter optionally your twitter account
+	#twitter = "Your Twitter account"
+	enableRSS = true
 
-    [params.publisher.logo]
-		url = "/images/avatar.jpg"
-		width = 127
-		height = 40
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = ["/css/custom.css"]
+	customJS  = []
 
-	[params.logo]
-		url = "/images/avatar.jpg"
-		width = 127
-		height = 40
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
-	[params.image]
-		url = "cover.png"
-		width = 800
-		height = 600
-    
+	# Navigation links
+	home = "Главная"
+	about = "Познакомимся?"
+	blog = "Блог"
+	subscribe = "Подписаться"
+	tags = "Теги"
+
+	# Pagination links
+	olderPosts = "Раньше"
+	newerPosts = "Позже"
+	readMore = "Читать еще"
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm a programmer."
+	tweet = ""
+	share = "Поделиться"
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+    enableGoogleAnalytics = true
+
+# Add additional social link entries underneath
+[social]
+    github-square   = "https://www.github.com/d2one"
+    linkedin-square   = "https://www.linkedin.com/in/daniil-kuznetsov-31270691/"
+    vk   = "https://vk.com/d2one"
+    instagram   = "http://instagram.com/kuznetsovdaniil"
+    rss-square = "https://d2one.ru/index.xml"
