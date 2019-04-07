@@ -6,8 +6,6 @@ title = "Кузнецов Даниил, блог"
 theme =   "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-105273978-1"
-# Disable comments by leaving disqusShortname empty
-#disqusShortname = "spf13"
 
 [params]
 	name = "Кузнецов Даниил"
@@ -28,9 +26,9 @@ googleAnalytics = "UA-105273978-1"
 	# Navigation links
 	home = "Главная"
 	about = "Познакомимся?"
-	blog = "Блог"
 	subscribe = "Подписаться"
 	tags = "Теги"
+	blog = "Блог"
 
 	# Pagination links
 	olderPosts = "Раньше"
@@ -53,8 +51,8 @@ googleAnalytics = "UA-105273978-1"
 
 # Add additional social link entries underneath
 [social]
-    github-square   = "https://www.github.com/d2one"
-    linkedin-square   = "https://www.linkedin.com/in/daniil-kuznetsov-31270691/"
-    vk   = "https://vk.com/d2one"
-    instagram   = "http://instagram.com/kuznetsovdaniil"
+    github-square = "https://www.github.com/d2one"
+    linkedin-square = "https://www.linkedin.com/in/daniil-kuznetsov-31270691/"
+    vk = "https://vk.com/d2one"
+    instagram = "http://instagram.com/kuznetsovdaniil"
     rss-square = "https://d2one.ru/index.xml"
