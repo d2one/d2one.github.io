@@ -3,7 +3,7 @@ date = "2019-02-25T17:09:14-05:00"
 draft = false
 title = "TeamleadConf 2019"
 slug = "teamleadconf-2019"
-tags = [ "devtools", "text" ]
+tags = [ "teamlead", "teamleadconf", "2019"]
 type = ["posts","post"]
 categories = [
     "Development"
