@@ -8,6 +8,11 @@ hidden = true
 # Ключевые навыки
 PHP 7+, Mysql, MongoDB, Sphinx, Go, LXC, Web Application Engine, Patterns, CI/CD, Slim3, Git
 
+# Биография
+[Биография](/files/success.pdf)
+[Менторство](https://getmentor.dev/kuznecov-daniil-178)
+
+
 # Опыт работы
 Разработчик высоконагруженных систем в группе компний [Hearst Shkulev Digital](http://www.hearst-shkulev-media.ru/projects/rn/)
 
